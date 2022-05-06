@@ -6,7 +6,7 @@
 
  **chinesechess为中国象棋**
 
-<img src="https://images.gitee.com/uploads/images/2021/0318/092916_1396b045_7691372.png" width=""/>
+<img src="https://images.gitee.com/uploads/images/2021/0318/092916_1396b045_7691372.png" width="300" height="300"/>
 
 
 
@@ -14,7 +14,7 @@
 
  **chessAi为五子棋** 
 
-<img src="https://images.gitee.com/uploads/images/2021/0318/092941_5ed96372_7691372.png" width=""/>
+<img src="https://images.gitee.com/uploads/images/2021/0318/092941_5ed96372_7691372.png" width="300" height="300"/>
 
 
 ---
